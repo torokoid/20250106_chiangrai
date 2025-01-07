@@ -141,13 +141,17 @@ p.note { display: none; }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1s36PY79nqA?si=ZkzZFOjrOZcgZXJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
-<h2><span class="yellow">適当な木材から柱の切り出し（木は豊富にあります）</span></h2>
+<h2><span class="yellow">適当な木材から柱の切り出し（材料の木は豊富にあります）</span></h2>
 <a href="20250106_001.JPG" target="_blank"><img src="20250106_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250106_002.JPG" target="_blank"><img src="20250106_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">深い穴を掘って柱を立てます</span></h2>
+<h2><span class="yellow">深い穴を掘って柱を立てます<br>1日目の作業で柱が3本立ちました</span></h2>
 <a href="20250106_003.JPG" target="_blank"><img src="20250106_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">1月4日、2日目も柱たての作業の続き</span></h2>
 <a href="20250106_004.JPG" target="_blank"><img src="20250106_004.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">引っ越しが待ち遠しい、カゴの中のニワトリ</span></h2>
 <a href="20250106_005.JPG" target="_blank"><img src="20250106_005.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">2日目の作業で柱が9本立ちました</span></h2>
@@ -162,6 +166,8 @@ p.note { display: none; }
 <a href="20250106_010.JPG" target="_blank"><img src="20250106_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250106_011.JPG" target="_blank"><img src="20250106_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250106_012.JPG" target="_blank"><img src="20250106_012.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">この辺りをナワバリにする雄鶏が周囲を探ってます</span></h2>
 <a href="20250106_013.JPG" target="_blank"><img src="20250106_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250106_014.JPG" target="_blank"><img src="20250106_014.JPG" alt="サンプル画像" width="900" /></a>
 
