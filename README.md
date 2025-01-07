@@ -134,7 +134,7 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">1月3日、ニワトリ小屋を設置する部分の地ならしを開始<br>元から作る予定でしたが、雛が一気に増えてニーズが急増！</span></h2>
+<h2><span class="yellow">1月3日、ニワトリ小屋を設置する部分の地ならしを開始<br>元から作る予定でしたが、雛が一気に増えてニーズ急騰！</span></h2>
 <a href="20250106_001.png" target="_blank"><img src="20250106_001.png" alt="サンプル画像" width="900" /></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ESnb2gp1bk?si=tXXj0v4hddBsuxBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
