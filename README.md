@@ -163,7 +163,11 @@ p.note { display: none; }
 
 <h2><span class="yellow">本職が入ると作業が速い</span></h2>
 <a href="20250106_009.JPG" target="_blank"><img src="20250106_009.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">1月5日時点で壁が設置され始めています</span></h2>
 <a href="20250106_010.JPG" target="_blank"><img src="20250106_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">1月6日、壁の補強財を追加します</span></h2>
 <a href="20250106_011.JPG" target="_blank"><img src="20250106_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250106_012.JPG" target="_blank"><img src="20250106_012.JPG" alt="サンプル画像" width="900" /></a>
 
