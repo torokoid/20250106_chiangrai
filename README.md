@@ -182,7 +182,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">ニワトリ達はカゴの中でちょっと手狭</span></h2>
 <a href="20250106_018.JPG" target="_blank"><img src="20250106_018.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">お引越しの画像は追記予定ですのでしばしお待ちを！</span></h2>
+<h2><span class="yellow">お引越し後の画像は、のちほど追記予定ですのでしばしお待ちを！</span></h2>
 
 
 <h2><span class="yellow">以上、今回もニワトリの話ばかりでしたが、ここまで観ていただきありがとうございました。</span></h2>
