@@ -122,24 +122,7 @@ p.note { display: none; }
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/01/06 、ニワトリ一家を移住させる小屋の建築 !!!</marquee></span></h1>
 
-<a href="20250106_001.JPG" target="_blank"><img src="20250106_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_002.JPG" target="_blank"><img src="20250106_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_003.JPG" target="_blank"><img src="20250106_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_004.JPG" target="_blank"><img src="20250106_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_005.JPG" target="_blank"><img src="20250106_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_006.JPG" target="_blank"><img src="20250106_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_007.JPG" target="_blank"><img src="20250106_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_008.JPG" target="_blank"><img src="20250106_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_009.JPG" target="_blank"><img src="20250106_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_010.JPG" target="_blank"><img src="20250106_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_011.JPG" target="_blank"><img src="20250106_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_012.JPG" target="_blank"><img src="20250106_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_013.JPG" target="_blank"><img src="20250106_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_014.JPG" target="_blank"><img src="20250106_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_015.JPG" target="_blank"><img src="20250106_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_016.JPG" target="_blank"><img src="20250106_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_017.JPG" target="_blank"><img src="20250106_017.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250106_018.JPG" target="_blank"><img src="20250106_018.JPG" alt="サンプル画像" width="900" /></a>
+
 
 
 
@@ -151,8 +134,49 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">タイの農家では庭で鶏を放し飼いして、卵を収穫しています</span></h2>
+<h2><span class="yellow">1月3日、ニワトリ小屋を設置する部分の地ならしを開始</span></h2>
+<a href="20250106_001.png" target="_blank"><img src="20250106_001.png" alt="サンプル画像" width="900" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ESnb2gp1bk?si=tXXj0v4hddBsuxBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1s36PY79nqA?si=ZkzZFOjrOZcgZXJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">適当な木材から柱の切り出し（木は豊富にあります）</span></h2>
+<a href="20250106_001.JPG" target="_blank"><img src="20250106_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_002.JPG" target="_blank"><img src="20250106_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">深い穴を掘って柱を立てます</span></h2>
+<a href="20250106_003.JPG" target="_blank"><img src="20250106_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_004.JPG" target="_blank"><img src="20250106_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_005.JPG" target="_blank"><img src="20250106_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">2日目の作業で柱が9本立ちました</span></h2>
+<a href="20250106_006.JPG" target="_blank"><img src="20250106_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">1月5日、この日から本職を雇って本格作業ですが、朝から4歳の小悪魔が邪魔に入りました</span></h2>
+<a href="20250106_007.JPG" target="_blank"><img src="20250106_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_008.JPG" target="_blank"><img src="20250106_008.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">本職が入ると作業が速い</span></h2>
+<a href="20250106_009.JPG" target="_blank"><img src="20250106_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_010.JPG" target="_blank"><img src="20250106_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_011.JPG" target="_blank"><img src="20250106_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_012.JPG" target="_blank"><img src="20250106_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_013.JPG" target="_blank"><img src="20250106_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_014.JPG" target="_blank"><img src="20250106_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">1月6日、4日の作業で屋根が完成しました</span></h2>
+<a href="20250106_015.JPG" target="_blank"><img src="20250106_015.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">1月7日、周辺の壁を仕上げてもうすぐ完成</span></h2>
+<a href="20250106_016.JPG" target="_blank"><img src="20250106_016.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">最後の仕上げが終わるとお引越し</span></h2>
+<a href="20250106_017.JPG" target="_blank"><img src="20250106_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ニワトリ達はカゴの中でちょっと手狭</span></h2>
+<a href="20250106_018.JPG" target="_blank"><img src="20250106_018.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">お引越しの画像は追記予定ですのでしばしお待ちを！</span></h2>
 
 
 <h2><span class="yellow">以上、今回もニワトリの話ばかりでしたが、ここまで観ていただきありがとうございました。</span></h2>
