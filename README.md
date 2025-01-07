@@ -175,7 +175,7 @@ p.note { display: none; }
 <a href="20250106_013.JPG" target="_blank"><img src="20250106_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250106_014.JPG" target="_blank"><img src="20250106_014.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">1月6日、4日目の作業で屋根が完成しました</span></h2>
+<h2><span class="yellow">1月6日、4日目の作業で屋根が完成しました<br>タイの澄み切った青空を反射して屋根がブルーに見えますが、シルバーです</span></h2>
 <a href="20250106_015.JPG" target="_blank"><img src="20250106_015.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">1月7日、周辺の壁を仕上げてもうすぐ完成</span></h2>
