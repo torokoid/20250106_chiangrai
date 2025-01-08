@@ -194,27 +194,27 @@ p.note { display: none; }
 <br><br>
 
 <h2><span class="yellow">オスのニワトリは古屋の周囲をしつこく見回り</span></h2>
-<a href="20250107_019.JPG" target="_blank"><img src="20250107_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_019.JPG" target="_blank"><img src="20250106_019.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">さえずりまくる雛たちを一匹づつ確保してバケツに移します</span></h2>
-<a href="20250107_020.JPG" target="_blank"><img src="20250107_020.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250107_021.JPG" target="_blank"><img src="20250107_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_020.JPG" target="_blank"><img src="20250106_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_021.JPG" target="_blank"><img src="20250106_021.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">親のニワトリは大騒ぎするので、力づくで抑え込みます</span></h2>
-<a href="20250107_022.JPG" target="_blank"><img src="20250107_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_022.JPG" target="_blank"><img src="20250106_022.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">全羽無事に引越し完了</span></h2>
-<a href="20250107_023.JPG" target="_blank"><img src="20250107_023.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20250107_024.JPG" target="_blank"><img src="20250107_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_023.JPG" target="_blank"><img src="20250106_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_024.JPG" target="_blank"><img src="20250106_024.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">新しい鶏小屋に夕暮れが迫ります</span></h2>
-<a href="20250107_025.JPG" target="_blank"><img src="20250107_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_025.JPG" target="_blank"><img src="20250106_025.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">新居が広すぎて落ち着かないようで、古屋の端っこで小さくまとまる一家</span></h2>
-<a href="20250107_026.JPG" target="_blank"><img src="20250107_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_026.JPG" target="_blank"><img src="20250106_026.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">1日目の夜が暮れて行きました</span></h2>
-<a href="20250107_027.JPG" target="_blank"><img src="20250107_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250106_027.JPG" target="_blank"><img src="20250106_027.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br>
