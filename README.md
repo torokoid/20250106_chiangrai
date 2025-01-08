@@ -210,7 +210,7 @@ p.note { display: none; }
 <h2><span class="yellow">新しい鶏小屋に夕暮れが迫ります</span></h2>
 <a href="20250106_025.JPG" target="_blank"><img src="20250106_025.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">新居が広すぎて落ち着かないようで、古屋の端っこで小さくまとまる一家</span></h2>
+<h2><span class="yellow">新居が広すぎて落ち着かないようで、小屋の端っこで小さくまとまる一家</span></h2>
 <a href="20250106_026.JPG" target="_blank"><img src="20250106_026.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">お引越し1日目の夜が綺麗に暮れて行きました</span></h2>
