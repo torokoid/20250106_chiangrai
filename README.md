@@ -203,7 +203,7 @@ p.note { display: none; }
 <h2><span class="yellow">親のニワトリは大騒ぎするので、力づくで抑え込みます</span></h2>
 <a href="20250106_022.JPG" target="_blank"><img src="20250106_022.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">全羽無事に引越し完了</span></h2>
+<h2><span class="yellow">総勢21羽の引越しが無事完了</span></h2>
 <a href="20250106_023.JPG" target="_blank"><img src="20250106_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250106_024.JPG" target="_blank"><img src="20250106_024.JPG" alt="サンプル画像" width="900" /></a>
 
